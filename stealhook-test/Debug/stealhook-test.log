@@ -1,0 +1,2 @@
+﻿  stealhook-test.cpp
+C:\Users\e'e't\source\repos\stealhook-test\stealhook-test\stealhook-test.cpp(204,4): error C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
